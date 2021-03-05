@@ -4,6 +4,9 @@ Created on Sun Jan 17 19:52:55 2021
 
 @author: gglas
 """
+## This code simulates pitch load tracking for a season 
+## of pitchers to measure ACWR and monitor injury risk throughout the season
+
 
 import numpy as np, numpy.random
 import matplotlib.pyplot as plt
